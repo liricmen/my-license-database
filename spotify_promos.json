@@ -1,0 +1,18 @@
+{
+  "SPOTIFY_001": {
+    "url": "https://www.spotify.com/in-en/ppt/hm2m/?code=tRdqgzWMZVabc123",
+    "code": "tRdqgzWMZVabc123",
+    "status": "active",
+    "used": false,
+    "type": "premium",
+    "duration": "1 month"
+  },
+  "SPOTIFY_002": {
+    "url": "https://www.spotify.com/in-en/ppt/hm2m/?code=def456ghi789xyz",
+    "code": "def456ghi789xyz", 
+    "status": "active",
+    "used": false,
+    "type": "premium",
+    "duration": "3 months"
+  }
+}
