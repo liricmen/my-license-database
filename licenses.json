@@ -1,22 +1,12 @@
 {
-  "ZK8RF-92JDT-Q3YVB-5MLXW-TA7N9": {
-    "id": "1",
-    "expire": "16.11.2025"
+  "LRCMN-8A2B4-C6D8E-0F2H4": {
+    "status": "active",
+    "expiry": "2025-11-17",
+    "created": "2025-10-17"
   },
-  "MW9UD-J4H8T-GFY2B-RUGM3-P27TX": {
-    "id": "2",
-    "expire": "16.11.2025"
-  },
-  "VJ5RD-A8ZK2-MQY6B-LUGC3-W17PX": {
-    "id": "3",
-    "expire": "16.11.2025"
-  },
-  "XW2UD-KDZH8-MFYJB-RUGM3-J37TX": {
-    "id": "4",
-    "expire": "16.11.2025"
-  },
-  "NJ7FD-4D2Z8-MFYJB-8UGM3-L99TX": {
-    "id": "5",
-    "expire": "16.11.2025"
+  "LRCMN-J6K8M-N2P4Q-6R8T0": {
+    "status": "active",
+    "expiry": "2025-11-17", 
+    "created": "2025-10-17"
   }
 }
